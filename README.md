@@ -1,6 +1,6 @@
 # Welcome to my readme! 🌟  
 
-Hi, I’m **Elyza** — a passionate programmer and transgender woman on a mission to create tools and projects that bring positivity, creativity, and innovation to the world.  
+Hi, I’m **Ramona** — a passionate programmer and transgender woman on a mission to create tools and projects that bring positivity, creativity, and innovation to the world.  
 
 ## About Me  
 - 🌱 I’m focused on creating programs that make life easier and more enjoyable.  
